@@ -1,0 +1,5 @@
+pyshorteners
+snownlp
+line-bot-sdk
+Flask
+gunicorn
